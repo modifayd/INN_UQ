@@ -1,8 +1,8 @@
-| Dataset        | ny-nx-nd    | WindowLength  | hiddenSize    | ro-rhidden    | earlyStopping (PRE-INN) | BatchSize(PRE-INN) | Train-Val-Test| Normalization |
+| Dataset        | nx-nd-ny    | WindowLength  | hiddenSize    | ro-rhidden    | earlyStopping (PRE-INN) | BatchSize(PRE-INN) | Train-Val-Test| Normalization |
 |----------------|-------------|---------------|---------------|---------------|-------------------------|--------------------|---------------|---------------|
-| Hair Dryer     | Row 1 Col 2 | Row 1 Col 3   | Row 1 Col 4   | Row 1 Col 5   | Row 1 Col 6             | Row 1 Col 7        | Row 1 Col 7   |               |
-| Heat Exchanger | Row 2 Col 2 | Row 2 Col 3   | Row 2 Col 4   | Row 2 Col 5   | Row 2 Col 6             | Row 2 Col 7        |               |               |    
-| MR-Damper      | Row 3 Col 2 | Row 3 Col 3   | Row 3 Col 4   | Row 3 Col 5   | Row 3 Col 6             | Row 3 Col 7        |               |               |    
+| Hair Dryer     |2−2−3        | Row 1 Col 3   | Row 1 Col 4   | Row 1 Col 5   | Row 1 Col 6             | Row 1 Col 7        | Row 1 Col 7   |               |
+| Heat Exchanger |0−0−3        | Row 2 Col 3   | Row 2 Col 4   | Row 2 Col 5   | Row 2 Col 6             | Row 2 Col 7        |               |               |    
+| MR-Damper      | 2−0−1       | Row 3 Col 3   | Row 3 Col 4   | Row 3 Col 5   | Row 3 Col 6             | Row 3 Col 7        |               |               |    
 
 | Dataset        |Learning rate scheduler(PRE-INN) | patience(PRE-INN) | min_delta(PRE-INN) |
 |----------------|---------------------------------|-------------------|--------------------|
