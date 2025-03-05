@@ -18,7 +18,7 @@ To train the Interval Neural Networks, execute: Interval_nn_lstm, Interval_Neura
 Matlab implementation of the following paper:
 
 ```
- Ferah, M. A., Kumbasar, T.  Introducing Interval Neural Networks for Uncertainty-Aware System Identification. SSCI, 2025.
+ Ferah, M. A., Kumbasar, T. Introducing Interval Neural Networks for Uncertainty-Aware System Identification. SSCI, 2025.
 ```
 
 
