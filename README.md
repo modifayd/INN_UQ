@@ -15,4 +15,12 @@ To train the pre-trained network (pre_net), execute: lstm_pretrain.m, Neural_ode
 
 To train the Interval Neural Networks, execute: Interval_nn_lstm, Interval_NeuralODE.m
 
+Matlab implementation of the following paper:
+
+```
+ Ferah, M. A., Kumbasar, T.  Introducing Interval Neural Networks for Uncertainty-Aware System Identification. SSCI, 2025.
+```
+
+
+
 
